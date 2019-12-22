@@ -6,10 +6,8 @@ namespace CsharpFundamentels
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
-			Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
-			
-			const float Pi = 3.14f;
-			Pi = 1;
+			byte b = 1;
+			int i = b;
+			Console.WriteLine(i);
 		}
 	}
