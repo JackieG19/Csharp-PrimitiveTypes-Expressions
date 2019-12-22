@@ -1,0 +1,11 @@
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/bin/Debug/netcoreapp2.0/CsharpFundamentals.deps.json
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/bin/Debug/netcoreapp2.0/CsharpFundamentals.runtimeconfig.json
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/bin/Debug/netcoreapp2.0/CsharpFundamentals.runtimeconfig.dev.json
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/bin/Debug/netcoreapp2.0/CsharpFundamentals.dll
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/bin/Debug/netcoreapp2.0/CsharpFundamentals.pdb
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.csprojResolveAssemblyReference.cache
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.AssemblyInfoInputs.cache
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.AssemblyInfo.cs
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.dll
+/Users/danielgutierrez/Desktop/CsharpFundamentals/CsharpFundamentals/obj/Debug/netcoreapp2.0/CsharpFundamentals.pdb
