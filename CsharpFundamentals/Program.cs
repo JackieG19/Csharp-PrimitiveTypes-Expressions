@@ -6,15 +6,17 @@ namespace CsharpFundamentels
 	{
 		static void Main(string[] args)
 		{
-			var number = "1234";
-			//int i = (int) number;
+			try
+			{
+				string str = "true";
+				bool b = Convert.ToBoolean(str);
+				Console.WriteLine(b);
+			}
 			
-			byte b = Convert.ToInt32(number);
-			Console.WriteLine(i);
-			
-			// the app will crash = System.OverflowException
-			//byte b = Convert.ToByte(number);
-			//Console.WriteLine(b);
+			catch (Exception)
+			{
+				Console.WriteLine("The number could not be converted to a byte");	
+			}
 
 		}
 	}
