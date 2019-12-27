@@ -8,9 +8,9 @@ namespace CsharpFundamentels
 		{
 			var a = 1;
 			var b = 2;
-			var c = 3;
-			
-			Console.WriteLine(a + b * c);
-			Console.WriteLine((a + b) * c);
+	
+			Console.WriteLine(a > b); // greater than
+			Console.WriteLine(a == b); // equal
+			Console.WriteLine(!(a != b)); // not equal
 		}
 	}
