@@ -36,8 +36,29 @@ ___
 - Constant : an immutable value
 
 ## 2. Overflowing
+```
+byte number = 255;
+number = number + 1; // 0 
+// exceeded the boundary of the byte  data type
+```
+By default Csharp doesn't have overflow checking which means we can modify the value of the variable at runtime
+and if we go beyond the boundary of it underline variable type you'll get overflow.
+
+To stop overflow:
+```
+checked // check keyword
+{
+    byte number = 255;
+    number = number + 1
+}
+```
+With this code, overflow will not happen in runtime. 
+Instead an exception will be thrown and the program will crash unless you handle exception.
 
 ## 3. Scope
+
+When variables have been defined within methods, the scope of the variable is the entire method after the declaration. This means that the variable is available to use within the method but when control passes to another method the variable is unavailable.
+
 ```
 // where a variable or constnt has meaning
 
