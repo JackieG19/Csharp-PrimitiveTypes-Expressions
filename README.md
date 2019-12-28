@@ -160,3 +160,6 @@ int b = ++a;
 | ---------- | ----------| -------- |
 |     Add    |     &    |  a & b  | 
 |     Or     |     l    |  a l b  | 
+___
+
+Next -> (Non-Primitive Types)[https://github.com/JackieG19/Csharp-NonPrimitive-Types]
