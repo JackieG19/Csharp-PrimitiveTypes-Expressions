@@ -8,7 +8,7 @@ namespace CsharpFundamentels
 		{
 			// byte number;
 			//Console.WriteLine(number);
-		    byte number = 2;
+		    	byte number = 2;
 
 			int count = 10;
 			float totalPrice = 20.95f;
