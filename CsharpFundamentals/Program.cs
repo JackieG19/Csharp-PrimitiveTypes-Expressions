@@ -9,6 +9,5 @@ namespace CsharpFundamentels
 			byte b = 1;
 			int i = b;
 			Console.WriteLine(i);
-
 		}
 	}
